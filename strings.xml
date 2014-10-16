@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flickr Search</string>
+    <string name="queryhint">Enter search query(+filter)</string>
+    <string name="taghint">Tag query</string>
+    <string name="saveDescription">Save Tag</string>
+    <string name="taggedSearches">Tagged Searches</string>
+    <string name="missingMessage">Enter both a query and a tag</string>
+    <string name="OK">OK</string>
+    <string name="searchURL">http://m.flickr.com/#/search/advanced_QM_q_IS_</string>
+    <string name="cancel">Cancel</string>
+    <string name="shareEditDeleteTitle">Share, Edit, or Delete search tagged as \&quot;%s\&quot;</string>
+    <string-array name="dialog_items">
+        <item >Share</item>
+        <item >Edit</item>
+        <item >Delete</item>
+    </string-array>
+    <string name="shareSubject">Flickr search for you</string>
+    <string name="shareMessage">Check out this Flickr search: %s</string>
+    <string name="shareSearch">Share search with: </string>
+    <string name="confirmMessage">Are you sure you want to delete this search?</string>
+    <string name="delete">Delete</string>
+
+</resources>
